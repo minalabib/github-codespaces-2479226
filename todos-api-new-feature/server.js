@@ -30,4 +30,4 @@ app.use(dbSetup);
 app.use('/', routes);
 
 // Server
-app.listen(port, () => console.log(`ML - Application running on :${port}`));
+app.listen(port, () => console.log(`ML branch testing- Application running on :${port}`));
